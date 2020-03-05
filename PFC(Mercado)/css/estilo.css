@@ -1,0 +1,19 @@
+/* body {background:#222;}
+
+#nav {width: 960px; background:#fff; margin: 180px; float: left; border-radius:5px;}
+#nav ul {margin:0; padding:0; list-style:none; width:100%; float: left;}
+#nav ul li{float: left; font:16px arial;}
+#nav ul li a {color:#888;text-decoration: none; padding: 20px; display: block;}
+#nav ul li:hover{background: #eee;} */
+
+ .venda{
+    /* background-image: url('../fotos/venda.png');  */
+    /* float: left;  */
+    width: 30px;
+    height:30px;
+ }
+
+ .venda img{
+     width: 30px;
+     height: 30px;
+ }
