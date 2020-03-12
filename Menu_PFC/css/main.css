@@ -1,0 +1,125 @@
+body{
+    background-image: url('../imagens/backg.jpg');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#login{
+    background-color: rgba(240, 255, 240,0.7);
+    width: auto;
+    height: 220px;
+    border-radius: 10px;
+    padding-top: 40px;
+}
+#login label{
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#login input[type='text']{
+    border: 2px solid white;
+    text-align: center;
+    border-radius: 7px;
+}
+#login input[type='text']:hover{
+    border: 2px solid #2d90d1;
+}
+#login input[type='text']::before{
+    border: 2px solid #2d90d1;
+}
+#login select{
+    border: 2px solid white;
+    text-align: center;
+    border-radius: 7px;
+}
+#login select:hover{
+    border: 2px solid #2d90d1;
+    
+}
+#login input[type='submit']{
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 7px;
+}
+#login input[type='submit']:hover{
+    border: 2px solid #2d90d1;
+}
+
+
+
+
+/*---------------------------------------------------*/
+
+
+
+
+.bode{
+    margin-left: 135px;
+}
+.nada{
+    height: 200px;
+}
+#menu-1{
+    background-color: rgba(240, 255, 240,0.7);
+    width: 110px;
+    height: auto;
+    border-radius: 10px;
+}
+#menu-1 a{
+    text-decoration: none;
+    text-decoration-color: none;
+}
+#menu-1:hover{
+    width: 120px;
+    border-radius: 13px;
+}
+#menu-2{
+    background-color: rgba(240, 255, 240,0.7);
+    width: 120px;
+    height: auto;
+    border-radius: 10px;
+}
+#menu-2 a{
+    text-decoration: none;
+    text-decoration-color: none;
+}
+#menu-2:hover{
+    width: 130px;
+    border-radius: 13px;
+}
+#menu-2 img{
+    padding-top: 5px;
+}
+#menu-3{
+    background-color: rgba(240, 255, 240,0.7);
+    width: 120px;
+    height: auto;
+    border-radius: 10px;
+}
+#menu-3 a{
+    text-decoration: none;
+    text-decoration-color: none;
+}
+#menu-3:hover{
+    width: 130px;
+    border-radius: 13px;
+}
+#menu-4{
+    background-color: rgba(240, 255, 240,0.7); 
+    width: 110px;
+    height: auto;
+    border-radius: 10px;
+    text-decoration: none;
+}
+#menu-4 a{
+    text-decoration: none;
+    text-decoration-color: none;
+}
+#menu-4 img{
+    padding-top: 5px;
+}
+#menu-4:hover{
+    width: 120px;
+    border-radius: 13px;
+}
